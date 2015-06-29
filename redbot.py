@@ -2,7 +2,7 @@ import praw
 import time
 import bot
 
-r = praw.Reddit(user_agent = "Redtest 0.1")
+r = praw.Reddit(user_agent = "an account that replies thank you, prime minister of India, by /u/agitatedgenius")
 r.login(bot.username,bot.password)
 words_to_match= ['thanks modi']
 cache = []

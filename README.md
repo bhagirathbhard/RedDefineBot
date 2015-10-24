@@ -1,9 +1,7 @@
 # Redbot
-Basic Reddit bots made by me.
-
-For information and Contact mail me at bhagirath.bhardwaj07@gmail.com
-
+Basic Reddit bot made by me
 # Narendra Modi Bot
 
 - Replies to anyone in r/India who posts **'thanks modi'** with **'you are welcome saar'**
+- Just like the famous bot of reddit, Thanks Obama - you're welcome.
 - Simple and fun. thank you.

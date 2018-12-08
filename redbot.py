@@ -7,7 +7,7 @@ words_to_match= ['thanks modi']
 cache = []
 
 def run_bot():
-	subreddit = r.get_subreddit("india")
+	subreddit = r.get_subreddit("testingground4bots")
 	comments = subreddit.get_comments(limit=50)
 	for comment in comments:
 		comment_text = comment.body.lower()

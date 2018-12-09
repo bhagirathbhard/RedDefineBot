@@ -1,4 +1,4 @@
-# Redbot
+# RedDefineBot
 **Python** with **PRAW**
 
 **PRAW** is a **Python module** which is the near universal choice among botmakers for interacting with the Reddit API.

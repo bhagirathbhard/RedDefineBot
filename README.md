@@ -5,7 +5,7 @@
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/bhagirathbhard/RedDefineBot/)
 [![HitCount](http://hits.dwyl.io/bhagirathbhard/RedDefineBot.svg)](http://hits.dwyl.io/bhagirathbhard/RedDefineBot)
-[!PythonVersion](https://img.shields.io/pypi/pyversions/sticker.svg)](https://pypi.python.org/pypi/sticker)
+[](https://img.shields.io/pypi/pyversions/sticker.svg)](https://pypi.python.org/pypi/sticker)
 </div>
 
 

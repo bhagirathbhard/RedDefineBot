@@ -1,5 +1,6 @@
 # RedDefineBot
-RedDefineBot is a Service bot for Reddit that defines words from Urban Dictionary only when called for. v0.1
+
+**RedDefineBot is a Service bot for Reddit that defines words from Urban Dictionary only when called for. v0.1**
 
 RedDefineBot follows etiquettes defined by the reddit community on /r/botettiqutte
 
@@ -17,3 +18,12 @@ ________
 ### config.py
 
 To standardize and simplify authentication, all bots rely on `config.py`.
+
+________ 
+
+### reddefinebot.py
+
+This is the main file submitted in cs50.io project folder. It works alongside other files such as  `replied_to.txt`, `words.txt`, `BS4Scrapper.py`.
+
+Currently, it can only operate in the **/r/testingground4bots** subreddit to stay in a sandboxed environment and not offend anybody.
+The main method when invoked goes through the comment stream on the subreddit and if it finds the call it is looking for, that in this bot’s scenario is, `“!reddefine word”` then it uses the `BS4Scrapper.py` script to do a word lookup for it on **Urban Dictionary.**

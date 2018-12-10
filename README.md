@@ -10,6 +10,6 @@ _______
 
 ________
 
-### Config.py
+### config.py
 
 To standardize and simplify authentication, all bots rely on `config.py`.

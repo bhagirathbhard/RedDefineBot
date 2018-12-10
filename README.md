@@ -43,13 +43,13 @@ _______
 
 ________
 
-# config.py
+# Config.py
 
 To standardize and simplify authentication, all bots rely on `config.py`.
 
 ________ 
 
-# reddefinebot.py
+# RedDefineBot.py
 
 This is the main file submitted in cs50.io project folder. It works alongside other files such as  `replied_to.txt`, `words.txt`, `BS4Scrapper.py`.
 

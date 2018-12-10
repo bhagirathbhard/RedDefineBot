@@ -6,18 +6,8 @@ import time
 import random
 from BS4Scrapper import *
 
-#authenticate bot's account details using information kept in config.py
-def authenticate():
-    print("Logging on to RedDefine Bot...")
-    reddit = praw.Reddit(username = config.username,
-                         password = config.password,
-                         client_id = config.client_id,
-                         client_secret = config.client_secret,
-                         user_agent = "RedDefine SERVICE bot providing information only when called for. v0.1")
-    print("Logged in!\n")
-    return reddit
 
-#running the main bot
+#running the bot function
 def run_bot(reddit, comment_id):
 
     print("Obtaining comments...\n")
@@ -90,7 +80,8 @@ def get_ids():
 
 #main method
 def main():
-    reddit = authenticate()
+    #authenticate bot's account details using information kept in config.py
+    reddit = config.bot_login()
     while True:
         try:
             comment_id = get_ids()

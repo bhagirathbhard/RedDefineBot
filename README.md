@@ -58,7 +58,7 @@ The main method when invoked goes through the comment stream on the subreddit an
 
 ________ 
 
-# bs4scrapper.py
+# BS4Scrapper.py
 
 This script uses Beautiful Soup 4 library in python to scrap relevant information off an HTML page online using LXML.
 I am using this to effectively get out the definition of a word off Urban Dictionary.

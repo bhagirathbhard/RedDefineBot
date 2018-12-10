@@ -1,5 +1,13 @@
 # RedDefineBot
 
+<div align="center">
+
+[![Build Status](https://travis-ci.org/dwyl/learn-travis.svg?branch=master)](https://travis-ci.org/dwyl/learn-travis)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/bhagirathbhard/RedDefineBot/)
+[![HitCount](http://hits.dwyl.io/bhagirathbhard/RedDefineBot.svg)](http://hits.dwyl.io/bhagirathbhard/RedDefineBot)
+</div>
+
+
 **RedDefineBot is a Service bot for Reddit that defines words from Urban Dictionary only when called for. v0.1**
 
 RedDefineBot follows etiquettes defined by the reddit community on [/r/Bottiquette](https://www.reddit.com/r/Bottiquette/wiki/bottiquette)

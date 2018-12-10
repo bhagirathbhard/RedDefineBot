@@ -27,3 +27,13 @@ This is the main file submitted in cs50.io project folder. It works alongside ot
 
 Currently, it can only operate in the **/r/testingground4bots** subreddit to stay in a sandboxed environment and not offend anybody.
 The main method when invoked goes through the comment stream on the subreddit and if it finds the call it is looking for, that in this bot’s scenario is, `“!reddefine word”` then it uses the `BS4Scrapper.py` script to do a word lookup for it on **Urban Dictionary.**
+
+________ 
+
+### bs4scrapper.py
+
+This script uses Beautiful Soup 4 library in python to scrap relevant information off an HTML page online using LXML.
+I am using this to effectively get out the definition of a word off Urban Dictionary.
+
+
+

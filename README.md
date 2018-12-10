@@ -2,7 +2,7 @@
 
 **RedDefineBot is a Service bot for Reddit that defines words from Urban Dictionary only when called for. v0.1**
 
-RedDefineBot follows etiquettes defined by the reddit community on [/r/botettiqutte](https://www.reddit.com/r/Bottiquette/wiki/bottiquette)
+RedDefineBot follows etiquettes defined by the reddit community on [/r/Bottiquette](https://www.reddit.com/r/Bottiquette/wiki/bottiquette)
 
 **RedDefineBot is not an auto replying, spamming bot. It only works when it is called for and is a service bot that can be invoked only in welcoming subreddits of the community.**
 _______

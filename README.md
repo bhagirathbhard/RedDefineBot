@@ -26,7 +26,7 @@ The output would be like this :
 **RedDefineBot is not an auto replying, spamming bot. It only works when it is called for and is a service bot that can be invoked only in welcoming subreddits of the community.**
 _______
 
-### Before running any bots
+# Before running any bots
 
 **Use descriptive useragents**. Include a username by which admins can identify you. Tell what your bot is doing and why. Convince the admins that you aren't wasting their bandwidth. Inadequate useragents may cause your bot to get logged out in the middle of your session, and the program will crash. Abusive useragents can get your bot shadowbanned.
 
@@ -34,13 +34,13 @@ _______
 
 ________
 
-### config.py
+# config.py
 
 To standardize and simplify authentication, all bots rely on `config.py`.
 
 ________ 
 
-### reddefinebot.py
+# reddefinebot.py
 
 This is the main file submitted in cs50.io project folder. It works alongside other files such as  `replied_to.txt`, `words.txt`, `BS4Scrapper.py`.
 
@@ -49,7 +49,7 @@ The main method when invoked goes through the comment stream on the subreddit an
 
 ________ 
 
-### bs4scrapper.py
+# bs4scrapper.py
 
 This script uses Beautiful Soup 4 library in python to scrap relevant information off an HTML page online using LXML.
 I am using this to effectively get out the definition of a word off Urban Dictionary.

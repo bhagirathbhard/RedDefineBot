@@ -8,7 +8,7 @@ def bot_login():
                 password = os.environ["reddit_password"],
                 client_id = os.environ["client_id"],
                 client_secret = os.environ["client_secret"],
-                user_agent = "kyle")
+                user_agent = "RedDefine SERVICE bot providing information only when called for. v0.1")
         print ("Logged in!")
     except:
         print ("Failed to log in!")

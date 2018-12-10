@@ -1,0 +1,4 @@
+praw
+pipenv
+lxml
+bs4

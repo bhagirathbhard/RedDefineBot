@@ -4,6 +4,25 @@
 
 RedDefineBot follows etiquettes defined by the reddit community on [/r/Bottiquette](https://www.reddit.com/r/Bottiquette/wiki/bottiquette)
 
+You can call `RedDefineBot` using the following syntax :
+>
+>         !reddefine cs50
+>
+
+The output would be like this :
+
+>**CS50:**
+
+>**Definition**: This is your first CS lecture. This is your big Harvard class. This is the legend himself, David Malan. This is what your hyped up friends told you about. This is your first pset. This is your first line of code. This is you turning in your first pset. This is your second pset. This is you thinking it's not that bad. This is your friends submitting study cards, thinking that it's pretty cool. This is you pulling an all-nighter on pset 3, after add/drop is over. This is you regretting that you took CS50. This is you wondering what the heck bmp means and how you'll ever implement a hashtable. This is you trying to get help at office hours, but you can't because there's too many other confused students. This is you coming in solidarity with your sleepy fellow students. This is you watching the lectures from laptop, because you stopped going to lecture physically. This is you getting decent at CS. This is you taking your midterm. This is you crying about your midterm. This is you finishing a few more psets. This is you finishing the last psets, and hugging the other people at office hours. This is you doing your final project. This is you at the CS50 fair. This is you walking out of Northwest, feeling like a CS god. This is you wondering if you want to actually do CS. This is you postponing that decision as you pop a bottle of champagne, because it's the end of your CS semester. This is you finishing up the rest of your finals.
+
+>This is CS50.
+
+>[Source](https://www.urbandictionary.com/define.php?term=cs50)
+
+>^(Bleep-bloop. I am a bot. |) [^(Github)](https://github.com/bhagirathbhard)
+
+***
+
 **RedDefineBot is not an auto replying, spamming bot. It only works when it is called for and is a service bot that can be invoked only in welcoming subreddits of the community.**
 _______
 
